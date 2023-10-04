@@ -12,3 +12,4 @@ Personal repo to keep track of things
     - https://tdcommons.ai/overview
 ## General 
   - https://github.com/GT4SD
+  - https://github.com/GT4SD/gt4sd-core#getting-started
