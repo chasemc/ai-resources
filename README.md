@@ -10,3 +10,5 @@ Personal repo to keep track of things
   - https://tdcommons.ai
   - Datasets:
     - https://tdcommons.ai/overview
+## General 
+  - https://github.com/GT4SD
